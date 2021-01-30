@@ -13,5 +13,7 @@ Inteligência artificial para análise de imagens de satélite.
 
 [You Only Look Twice: Rapid Multi-Scale Object Detection In Satellite Imagery](https://arxiv.org/abs/1805.09512)
 
+[Object Detection with Deep Learning: A Review](https://arxiv.org/abs/1807.05511)
+
 ## Theses
 [Machine Learning for Aerial Image Labeling](https://www.cs.toronto.edu/~vmnih/docs/Mnih_Volodymyr_PhD_Thesis.pdf)
