@@ -1,7 +1,7 @@
 # Gaia
 ![earth](https://earthseeds.space/header/earth-header-3.jpg)
 
-Inteligência artificial para análise de imagens de satélite.
+Inteligência artificial aplicada análise de imagens de satélite.
 
 ## Bancos de imagens
 [SpaceNet](https://spacenet.ai/datasets/)
