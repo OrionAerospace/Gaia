@@ -6,7 +6,9 @@ Inteligência artificial aplicada a análise de imagens de satélite.
 # Trabalhos concluidos
 #### Classificação de construções danificadas
 Detecção com 99% de acurácia usando o banco [Satellite Images of Hurricane Damage](https://www.kaggle.com/kmader/satellite-images-of-hurricane-damage)
+
 Arquivo: Damaged_Building_VGG16.ipynb
+
 IA: [download](https://drive.google.com/file/d/1lwi20f40HSS88xJxOTkkxp90tFOXxsna/view?usp=sharing)
 
 ## Bancos de imagens
