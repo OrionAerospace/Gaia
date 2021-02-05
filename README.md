@@ -9,6 +9,9 @@ Detecção com 99% de acurácia usando o banco [Satellite Images of Hurricane Da
 Arquivo: Damaged_Building_VGG16.ipynb<br/>
 IA: [download](https://drive.google.com/file/d/1lwi20f40HSS88xJxOTkkxp90tFOXxsna/view?usp=sharing)<br/>
 
+
+
+# Recursos
 ## Bancos de imagens
 [SpaceNet](https://spacenet.ai/datasets/)<br/>
 [Massachusetts Buildings ](https://www.kaggle.com/balraj98/massachusetts-buildings-dataset)<br/>
