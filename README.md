@@ -25,3 +25,4 @@ IA: [download](https://drive.google.com/file/d/1lwi20f40HSS88xJxOTkkxp90tFOXxsna
 
 ## Theses
 [Machine Learning for Aerial Image Labeling](https://www.cs.toronto.edu/~vmnih/docs/Mnih_Volodymyr_PhD_Thesis.pdf)<br/>
+[Redes neurais artificiais aplicadas na identificação automática de áreas cafeeiras em imagens de satélite](http://www.epamig.ufla.br/geosolos/publicacoes/teses/LiviaNAndrade_dissert.pdf)<br/>
